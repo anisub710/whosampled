@@ -4,7 +4,7 @@
   "title": "WhoSampled",
   "description": "Search WhoSampled.com from the currently playing song in Spotify",
   "icon": "icon2.png",
-  "author": "andrewtruex",
+  "author": "truex",
   "contributors": [
     "pernielsentikaer",
     "anirudh_subramanyam"
@@ -70,6 +70,6 @@
     "dev": "ray develop",
     "fix-lint": "ray lint --fix",
     "lint": "ray lint",
-    "publish": "ray publish"
+    "publish": "npx @raycast/api@latest publish"
   }
 }

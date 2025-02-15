@@ -1,4 +1,4 @@
 export type SearchArguments = {
-    song: string;
-    artists?: string;
+  song: string;
+  artists?: string;
 };

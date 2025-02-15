@@ -11,7 +11,7 @@ export async function searchByCurrentlyPlaying(script: string, applicationName: 
   }
 
   if (result === "NOT_PLAYING") {
-    await showHUD( `❌ ${applicationName} is not playing`);
+    await showHUD(`❌ ${applicationName} is not playing`);
     return;
   }
 
