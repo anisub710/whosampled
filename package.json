@@ -5,6 +5,7 @@
   "description": "Search WhoSampled.com from the currently playing song in Spotify",
   "icon": "icon2.png",
   "author": "andrewtruex",
+  "owner": "andrewtruex",      
   "contributors": [
     "pernielsentikaer",
     "anirudh_subramanyam"
